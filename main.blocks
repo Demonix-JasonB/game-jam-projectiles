@@ -1,1 +1,35 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="bO`t4j1B//[DT*?,K~Ch" x="0" y="0"/></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="09/#1hkA$~oYtgB2dmT`">Spaceship</variable></variables><block type="pxt-on-start" id="zvAni)bDzC48lW.[kW}k" x="0" y="0"><statement name="HANDLER"><block type="hudsetScore" id="ZqNoBt:-Cn^q4K2l^A0="><comment pinned="false" h="80" w="160" relx="10" rely="10">Setup the game</comment><value name="value"><shadow type="math_number" id="YeOom[h#~n+~2pFEO^d{"><field name="NUM">0</field></shadow></value><next><block type="hudSetLife" id="A8g]J(~=,5n^C#TwKjbW"><value name="value"><shadow type="math_number" id="0T)ntu^6R_^qW2p6nvN0"><field name="NUM">3</field></shadow></value><next><block type="gamesetbackgroundimage" id="!zcYC1bykn6e,]d{4V5`"><value name="img"><shadow type="background_image_picker" id="S4}c%:aj!@99L9Sj{JJ/"><field name="img">img`
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+`</field></shadow></value><next><block type="typescript_statement" id="E%AvUzf^5W8()PUwGoFG" editable="false"><mutation xmlns="http://www.w3.org/1999/xhtml" line0="tiles.setTilemap(tilemap`level`)" numlines="1"></mutation><next><block type="variables_set" id="]H]g|TnN_*380B9?l$.s"><field name="VAR" id="09/#1hkA$~oYtgB2dmT`">Spaceship</field><comment pinned="false" h="80" w="160" relx="10" rely="10">Setup player</comment><value name="VALUE"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="(uF^0=z$2!j-]_FG3c9U"><value name="img"><shadow type="screen_image_picker" id="Z_vBww)0z*1L[@.c|T{N"><field name="img">img`
+. . . . . . . 2 2 . . . . . . . 
+. . . . . . 2 2 2 2 . . . . . . 
+. . . . . 2 2 1 1 2 2 . . . . . 
+2 . . . 2 2 1 1 1 1 2 2 . . . 2 
+2 . . . 2 1 1 1 1 1 1 2 . . . 2 
+1 . . . 2 2 1 1 1 1 2 2 . . . 1 
+1 . . f 2 2 2 2 2 2 2 2 f . . 1 
+1 . . 2 f 2 2 2 2 2 2 f 2 . . 1 
+2 . . 2 2 f 2 f f 2 f 2 2 . . 2 
+2 . 2 2 2 2 f 2 2 f 2 2 2 2 . 2 
+2 2 2 2 2 f 2 f f 2 f 2 2 2 2 2 
+2 . 2 2 2 f 2 f f 2 f 2 2 2 . 2 
+2 2 2 2 2 2 f 2 2 f 2 2 2 2 2 2 
+2 . 1 1 2 f 2 f f 2 f 2 1 1 . 2 
+2 . 1 1 1 2 2 2 2 2 2 1 1 1 . 2 
+. . . 1 1 1 1 2 2 1 1 1 1 . . . 
+`</field></shadow></value></block></value></block></next></block></next></block></next></block></next></block></statement></block></xml>
